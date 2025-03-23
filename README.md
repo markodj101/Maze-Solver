@@ -65,13 +65,3 @@ You can easily customize the maze by modifying the following parameters in the `
 
 You can also adjust the animation speed in the `maze.py` file by changing the `time.sleep()` value in the `_animate()` method.
 
-## Potential Improvements
-
-Here are some ideas for potential improvements to this project:
-
-- **Different Maze Generation Algorithms:** Implement other maze generation algorithms, such as Prim's algorithm or Kruskal's algorithm.
-- **User Interaction:** Allow the user to specify the maze dimensions through input.
-- **Pathfinding Algorithms:** Implement other pathfinding algorithms like Breadth-First Search (BFS) or A\* search.
-- **Visual Enhancements:** Add more visual flair, such as different colors for the start and end points, or highlighting the current cell during solving.
-- **Difficulty Levels:** Introduce difficulty levels by controlling the density of walls in the generated maze.
-- **Error Handling:** Add more robust error handling for different scenarios.
