@@ -12,8 +12,8 @@ This project implements a maze generator and solver using the Tkinter library in
 
 ## Dependencies
 
-- **Python 3:** 
-- **Tkinter:** 
+- **Python 3** 
+- **Tkinter** 
 
 ## Installation
 
