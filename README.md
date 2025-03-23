@@ -12,12 +12,12 @@ This project implements a maze generator and solver using the Tkinter library in
 
 ## Dependencies
 
-- **Python 3:** This project is written in Python 3.
-- **Tkinter:** This library is usually included with standard Python installations and is used for the graphical user interface.
+- **Python 3:** 
+- **Tkinter:** 
 
 ## Installation
 
-No specific installation steps are required beyond having Python 3 installed. You can simply download or clone the project files.
+Python 3 and Tkinter library need to be installed to run this project.
 
 ## Usage
 
